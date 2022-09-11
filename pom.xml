@@ -57,6 +57,7 @@
     <module>cloud-stream-rabbitmq-xfz8802</module>
     <module>cloud-stream-rabbitmq-xfz8803</module>
 
+    <!-- alibaba-nacos-xf9000访问alibaba-nacos-zf9001、9002（9001与9002负载均衡+集群） -->
     <module>alibaba-nacos-zf9001</module>
     <module>alibaba-nacos-zf9002</module>
     <module>alibaba-nacos-xf9000</module>
